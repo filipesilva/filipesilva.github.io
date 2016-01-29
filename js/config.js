@@ -55,7 +55,8 @@ $(function() {
     // to Github pages branch (gh-pages)
     githubUserSettings: {
       username: 'filipesilva',
-      repo: 'filipesilva.github.io'
+      repo: 'filipesilva.github.io',
+      branch: 'master'
     }
 
   });
